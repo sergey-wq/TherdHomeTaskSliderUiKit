@@ -138,7 +138,7 @@
                                     <action selector="slidersAction:" destination="BYZ-38-t0r" eventType="valueChanged" id="06a-gA-92b"/>
                                 </connections>
                             </slider>
-                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="Qtf-XP-7NX">
+                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.48999999999999999" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="Qtf-XP-7NX">
                                 <rect key="frame" x="124" y="337.5" width="276" height="31"/>
                                 <color key="maximumTrackTintColor" red="0.75659805540000002" green="0.75670814509999995" blue="0.75657397510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="thumbTintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
